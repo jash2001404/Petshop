@@ -1,0 +1,8 @@
+echo Test 01:
+./p < input01.txt | diff - eoutput-01.txt
+echo Test 02:
+./p < input02.txt | diff - eoutput-02.txt
+echo Test 03:
+./p < input03.txt | diff - eoutput-03.txt
+echo Test 04:
+./p < input04.txt | diff - eoutput-04.txt

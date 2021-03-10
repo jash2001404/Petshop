@@ -1,0 +1,16 @@
+dog
+10
+cat
+10
+bird
+10
+fish
+10
+dog
+10
+cat
+10
+bird
+10
+fish
+10

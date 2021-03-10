@@ -1,0 +1,21 @@
+
+Hi there, and welcome to the Royal petshop in Adelaide Australia.
+Within our pet store, we only stock Cats, Dogs, Birds and Fish.
+
+This program is designed to help you keep track of your revenue, 
+expenses and daily sales. By tracking the purchase and selling of pets. 
+So lets get started, what type of pet did you purchase today? How many pets of this type would you like to add? 
+Bark, bark, bark.
+
+what type of pet did you purchase today? How many pets of this type would you like to add? 
+Meow, meow, meow.
+
+what type of pet did you purchase today? How many pets of this type would you like to add? 
+Tweet, tweet, tweet.
+
+what type of pet did you purchase today? How many pets of this type would you like to add? 
+Gulp, gulp, gulp.
+
+
+Great, did you sell any pets? If so, what type of pet did you sell today? How many pets of this type were sold today? what type of pet did you sell today? How many pets of this type were sold today? what type of pet did you sell today? How many pets of this type were sold today? what type of pet did you sell today? How many pets of this type were sold today? 
+Fantastic, today you have made $0 in profit.
